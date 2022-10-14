@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kata", "Kata\Kata.csproj", "{3E3F36F3-963E-4A94-9B69-C2F2C98FE1F9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Karta.tests", "Karta.tests\Karta.tests.csproj", "{DA3CC674-360C-44EA-B773-C299AE0EBC24}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{3E3F36F3-963E-4A94-9B69-C2F2C98FE1F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3E3F36F3-963E-4A94-9B69-C2F2C98FE1F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3E3F36F3-963E-4A94-9B69-C2F2C98FE1F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA3CC674-360C-44EA-B773-C299AE0EBC24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA3CC674-360C-44EA-B773-C299AE0EBC24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA3CC674-360C-44EA-B773-C299AE0EBC24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA3CC674-360C-44EA-B773-C299AE0EBC24}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
