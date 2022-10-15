@@ -14,8 +14,6 @@ public class PriceCalculator : IPriceCalculator
                 return itemAmount * 30 - ((itemAmount / 2) * 15);
                 case "C40":
                 return 60;
-                case "T34":
-                return 99;
                 default:
                 return 0;
             }
